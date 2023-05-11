@@ -1,0 +1,11 @@
+name: hw1_3
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - numpy==1.20.2
+    - pandas==1.2.4
+    - tqdm==4.65.0
+    - xgboost==1.7.5
+    - scikit-learn
+    - matplotlib==3.7.1
